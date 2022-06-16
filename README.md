@@ -1,5 +1,5 @@
 - Hi, my name is Michael Tekin
-- I'm a student at Southern New Hampshire University and I graduate with my bachelors in computer science summer of 2022.
+- I'm a student at Southern New Hampshire University and I graduate with my bachelors in computer science July 2022.
 - You can reach me at tekinm25@gmail.com
 
 <!---
